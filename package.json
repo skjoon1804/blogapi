@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/skjoon1804/blogapi#readme",
   "dependencies": {
+    "morgan": "^1.9.1",
     "uuid": "^3.3.2"
   }
 }
